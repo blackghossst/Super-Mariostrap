@@ -1,0 +1,19 @@
+{
+  "name": "mariostrap",
+  "version": "1.0.0",
+  "description": "Creando nuestro propio framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blackghossst/Super-Mariostrap.git"
+  },
+  "author": "super-Mariostrap",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blackghossst/Super-Mariostrap/issues"
+  },
+  "homepage": "https://github.com/blackghossst/Super-Mariostrap#readme"
+}
